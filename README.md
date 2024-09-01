@@ -41,4 +41,4 @@ Getting data from table with `search.item(table: str, target: list)`:
 
 
 ## Creator ##
-My site: [link](https://johnywessel.github.io/) 
+site:  [*click*](https://johnywessel.github.io/) 
