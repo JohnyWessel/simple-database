@@ -7,7 +7,7 @@ Using this library is very easy:
 First, we need to setup database direcroty
 For this we use `setdirecritry` it's look like that:
 
-    import simpledb as s
+    import wessql as s
 
     s.setdirecritry("path//database.db")
 
