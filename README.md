@@ -2,8 +2,6 @@
 
 ## Quick Guide ##
 
-### Using ###
-
 Using this library is very easy:
 
 First, we need to setup database direcroty
