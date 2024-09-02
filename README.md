@@ -34,7 +34,9 @@ Getting data from table with `search.item(table: str, target: list)`:
 
     print(s.search.item("table_name", "str")) or print(s.search.item("table_name", 1))
 
+Editing data with `Edit(table_name: str, collumn: str, target: list, item)`:
 
+    s.table.Edit("table_name", "collumn_name", "old_values", "new_values")
 
 ----------
 
