@@ -1,4 +1,5 @@
-# Simple DB Library #
+# WesSQL Library #
+*library for easy use sqlite3*
 
 ## Quick Guide ##
 
